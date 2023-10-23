@@ -21,7 +21,7 @@
 - 😉 I like to work in a team and learn something new together!
 - 📫 How to reach me: <a href="https://t.me/dew_77">Telegram</a>, <a href="https://www.linkedin.com/in/yurkov-artem/">LinkedIn</a>
 - 🌏 I speak Russian (native speaker), English (B1)
-- ⌚ I practice *GTD* and *Agile* in real life! And I also have *touch typing skills*
+- ⌚ I practice *GTD* time management system
 - 🔭 I’m currently open to offers
 </div>
 <div id="instruments">
