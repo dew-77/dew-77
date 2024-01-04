@@ -35,6 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" width="40" height="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="vscode" width="40" height="40">&nbsp;
 <img src="https://www.oose.de/wp-content/uploads/2014/03/gtd_Logo_claim_gross.png" title="Getting Things Done" width="40" height="40">&nbsp;
 
 </div>
