@@ -16,7 +16,7 @@
 <div id="about">
 
 ### About me
-- 🎓 I’m currently studying at <a href="https://mospolytech.ru/">Moscow Polytechnic University</a> (branch) in the direction of **"Information systems and technologies"**
+- 🎓 I’m currently studying at <a href="https://mospolytech.ru/">Moscow Polytechnic University</a> in the direction of **"Information systems and technologies"**
 - 💻 I finished my studies at <a href="https://practicum.yandex.ru/">@Yandex.Practicum</a> in the direction of **"Python Developer"**
 - 😉 I like to work in a team and learn something new together!
 - 📫 How to reach me: <a href="https://t.me/dew_77">Telegram</a>, <a href="https://www.linkedin.com/in/yurkov-artem/">LinkedIn</a>
