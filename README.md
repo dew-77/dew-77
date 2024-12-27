@@ -23,6 +23,3 @@
 </div>
 
 <div id="widgets" align="center">
-
-### Stats
-</div>
